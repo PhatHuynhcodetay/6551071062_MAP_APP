@@ -48,3 +48,8 @@ $RECYCLE.BIN/
 *.tmp
 *.temp
 *.log
+
+## Unnecessary external materials & documents
+Resources/
+*.pdf
+*.docx
